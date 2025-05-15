@@ -2,14 +2,7 @@
 
 **`Desenvolvedora Front-End`**
 
-Olá! Me chamo **Mellyssa Alves de Sousa**, tenho 24 anos e sou natural do **Piauí**.  
-Concluí o ensino médio no **Instituto Federal do Piauí (IFPI)**, onde cursei o técnico em **Informática**.  
-**Graduada** em **Engenharia de Computação** pela **Universidade Federal do Ceará (UFC)**.
-
-Sou apaixonada pelo universo da tecnologia, com interesse especial no desenvolvimento de **interfaces web**, além de também gostar bastante de resolver **desafios técnicos e lógicos**.
-
-Atualmente, atuo como **Desenvolvedora Front-End** na **Funcap — Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico**, onde sou responsável pelo **desenvolvimento de interfaces com base em mockups do Figma**, além da **integração dessas interfaces com APIs e serviços de back-end**.
-
+Olá! Me chamo **Mellyssa Alves de Sousa**, tenho 24 anos e sou natural do **Piauí**. Concluí o ensino médio no **Instituto Federal do Piauí (IFPI)**, onde cursei o técnico em **Informática**. **Graduada** em **Engenharia de Computação** pela **Universidade Federal do Ceará (UFC)**. Sou apaixonada pelo universo da tecnologia, com interesse especial no desenvolvimento de **interfaces web**, além de também gostar bastante de resolver **desafios técnicos e lógicos**. Atualmente, atuo como **Desenvolvedora Front-End** na **Funcap — Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico**, onde sou responsável pelo **desenvolvimento de interfaces com base em mockups do Figma**, além da **integração dessas interfaces com APIs e serviços de back-end**.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mellyssa-alves-de-sousa/">
@@ -34,9 +27,6 @@ Atualmente, atuo como **Desenvolvedora Front-End** na **Funcap — Fundação Ce
         />
     </a>
 </p>
-
-
-
 
 ---
 
