@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Mellyssa Alves
+# Mellyssa Alves
 
 **`Desenvolvedora Front-End`**
 
@@ -30,7 +30,7 @@ Olá! Me chamo **Mellyssa Alves de Sousa**, tenho 24 anos e sou natural do **Pia
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -158,7 +158,7 @@ Olá! Me chamo **Mellyssa Alves de Sousa**, tenho 24 anos e sou natural do **Pia
 <br/>
 
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
