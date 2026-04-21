@@ -1,166 +1,103 @@
-# Mellyssa Alves
-
-**`Desenvolvedora Front-End`**
-
-Olá! Me chamo **Mellyssa Alves de Sousa**, tenho 24 anos e sou natural do **Piauí**. Concluí o ensino médio no **Instituto Federal do Piauí (IFPI)**, onde cursei o técnico em **Informática**. **Graduada** em **Engenharia de Computação** pela **Universidade Federal do Ceará (UFC)**. Sou apaixonada pelo universo da tecnologia, com interesse especial no desenvolvimento de **interfaces web**, além de também gostar bastante de resolver **desafios técnicos e lógicos**. Atualmente, atuo como **Desenvolvedora Front-End** na **Funcap — Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico**, onde sou responsável pelo **desenvolvimento de interfaces com base em mockups do Figma**, além da **integração dessas interfaces com APIs e serviços de back-end**.
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/mellyssa-alves-de-sousa/">
-        <img 
-            alt="LinkedIn" 
-            title="Me acompanhe no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/mellyssalves?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mellyssalves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/mellyssalves?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mellyssalves?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-</p>
+# 👋 Olá, eu sou Mellyssa Alves!
+**Desenvolvedora de Software | Engenharia de Computação (UFC)**
 
 ---
 
-### Linguagens e Tecnologias
+## 💡 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<!-- <img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/> -->
-<!-- <img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/> -->
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+Desenvolvedora de Software formada em Engenharia de Computação pela UFC, com formação técnica em Informática pelo IFPI.
 
+Possuo experiência sólida em desenvolvimento Front-End, com atuação na construção de aplicações web utilizando **React, TypeScript e Angular**, além de integração com **APIs REST e GraphQL**.
 
-<br/>
-<br/>
+Atualmente, estou em evolução para o desenvolvimento Back-End com **Java e Spring Boot**, desenvolvendo APIs REST e aplicando conceitos como **arquitetura em camadas, regras de negócio e persistência de dados**.
+
+Tenho experiência na transformação de protótipos UX/UI em aplicações web **responsivas, acessíveis e performáticas**, aplicando boas práticas de componentização, organização de código e arquitetura moderna.
+
+---
+
+## 💼 Experiência Profissional
+
+### 💼 Desenvolvedora Front-End (Júnior)  
+**Agilizone** — Fortaleza/CE  
+*Jun 2025 – Out 2025*
+
+- Desenvolvimento de aplicações web utilizando **React e TypeScript**
+- Integração com APIs REST e GraphQL  
+- Aplicação de boas práticas de componentização e reutilização de código  
+- Participação em code reviews e uso de Git em equipe  
+
+---
+
+### 💼 Bolsista Desenvolvedora Front-End  
+**FUNCAP – Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico** — Fortaleza/CE  
+*Jan 2024 – Dez 2025*
+
+- Desenvolvimento de aplicações web responsivas com **React, TypeScript, Bootstrap e Tailwind**
+- Implementação de interfaces a partir de protótipos no Figma  
+- Integração com APIs REST e estruturação de dados  
+- Atuação em todo o ciclo de desenvolvimento (requisitos até manutenção)
+
+---
+
+### 💼 Bolsista Desenvolvedora Front-End  
+**GREAT – Grupo de Redes de Computadores, Engenharia de Software e Sistemas** — Fortaleza/CE  
+*Jul 2021 – Dez 2022*
+
+- Desenvolvimento de interfaces web com **React e Bootstrap**
+- Criação de aplicações corporativas utilizadas em sistemas governamentais  
+- Implementação de interfaces responsivas alinhadas a requisitos técnicos  
+
+---
+
+## 🎓 Formação Acadêmica
+
+**Engenharia de Computação**  
+Universidade Federal do Ceará (UFC)  
+*Conclusão: 2025*
+
+**Técnico em Informática**  
+Instituto Federal do Piauí (IFPI)  
+*Conclusão: 2019*
+
+---
+
+## 🚀 Projeto em destaque
+
+### 💳 Bank API (Java + Spring Boot)
+
+API REST desenvolvida com Java e Spring Boot simulando operações bancárias, incluindo criação de usuários, transferência de saldo entre contas, controle de saldo e histórico de transações.
+
+**Funcionalidades:**
+- Criação de usuários  
+- Transferência de saldo entre contas  
+- Controle de saldo  
+- Histórico de transações  
+
+**Tecnologias:**
+- Java 21  
+- Spring Boot  
+- JPA / Hibernate  
+- H2 Database  
+- Arquitetura em camadas (Controller, Service, Repository)
+
+---
+
+## 🧠 Tecnologias
+
+**Front-End:**  
+React • TypeScript • Angular • HTML • CSS • Bootstrap • Tailwind  
+
+**Back-End (em evolução):**  
+Java • Spring Boot • APIs REST • JPA / Hibernate  
+
+**Banco de Dados:**  
+PostgreSQL • MySQL • H2  
+
+**Ferramentas:**  
+Git • Docker (básico)  
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedora backend, contribuindo na construção de sistemas escaláveis, bem estruturados e de alta qualidade.
