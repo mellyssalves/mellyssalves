@@ -1,55 +1,152 @@
 # 👋 Olá, eu sou Mellyssa Alves!
-**Desenvolvedora de Software | Engenharia de Computação (UFC)**
+
+**Desenvolvedora Front-End | Engenheira de Computação pela UFC**
 
 ---
 
-## 💡 Sobre mim
+## 💻 Sobre mim
 
-Desenvolvedora de Software formada em Engenharia de Computação pela UFC, com formação técnica em Informática pelo IFPI.
+Sou Engenheira de Computação formada pela **Universidade Federal do Ceará (UFC)** e Técnica em Informática pelo **IFPI**.
 
-Possuo experiência sólida em desenvolvimento Front-End, com atuação na construção de aplicações web utilizando **React, TypeScript e Angular**, além de integração com **APIs REST e GraphQL**.
+Tenho experiência profissional em **desenvolvimento Front-End**, atuando na construção e manutenção de aplicações web com **React, Next.js, TypeScript e JavaScript**.
 
-Atualmente, estou em evolução para o desenvolvimento Back-End com **Java e Spring Boot**, desenvolvendo APIs REST e aplicando conceitos como **arquitetura em camadas, regras de negócio e persistência de dados**.
+Ao longo da minha experiência, trabalhei com desenvolvimento de **interfaces responsivas**, componentização e reutilização de código, integração com **APIs REST e GraphQL** e implementação de interfaces a partir de protótipos no **Figma**.
 
-Tenho experiência na transformação de protótipos UX/UI em aplicações web **responsivas, acessíveis e performáticas**, aplicando boas práticas de componentização, organização de código e arquitetura moderna.
+Também tenho experiência com **Git/Gitflow, code reviews, levantamento de requisitos, definição de regras de negócio** e colaboração com equipes multidisciplinares em ambientes ágeis.
+
+Atualmente, busco continuar evoluindo como desenvolvedora Front-End, aprofundando meus conhecimentos em desenvolvimento web e contribuindo para a construção de aplicações bem estruturadas e boas experiências para os usuários.
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 💼 Desenvolvedora Front-End (Júnior)  
+### 💼 Desenvolvedora Front-End
 **Agilizone** — Fortaleza/CE  
 *Jun 2025 – Out 2025*
 
-- Desenvolvimento de aplicações web utilizando **React e TypeScript**
-- Integração com APIs REST e GraphQL  
-- Aplicação de boas práticas de componentização e reutilização de código  
-- Participação em code reviews e uso de Git em equipe  
+- Desenvolvimento e manutenção de aplicações web utilizando **React, TypeScript e JavaScript**
+- Criação e evolução de **interfaces responsivas e componentes reutilizáveis**
+- Integração e consumo de **APIs REST e GraphQL**
+- Participação na análise de requisitos e implementação de funcionalidades
+- Investigação e correção de problemas durante o desenvolvimento e manutenção das aplicações
+- Utilização de **Git/Gitflow** e participação em **code reviews**
+- Colaboração com equipe multidisciplinar em ambiente ágil
 
 ---
 
-### 💼 Bolsista Desenvolvedora Front-End  
+### 💼 Bolsista Desenvolvedora Front-End
 **FUNCAP – Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico** — Fortaleza/CE  
 *Jan 2024 – Dez 2025*
 
-- Desenvolvimento de aplicações web responsivas com **React, TypeScript, Bootstrap e Tailwind**
-- Implementação de interfaces a partir de protótipos no Figma  
-- Integração com APIs REST e estruturação de dados  
-- Atuação em todo o ciclo de desenvolvimento (requisitos até manutenção)
+- Atuação desde o **levantamento de requisitos e definição de regras de negócio** até o desenvolvimento das interfaces
+- Elaboração de **mockups no Figma** e transformação dos protótipos em interfaces web
+- Desenvolvimento de aplicações responsivas utilizando **React, Next.js, TypeScript e Tailwind CSS**
+- Criação e organização de **componentes reutilizáveis**
+- Integração entre Front-End e Back-End por meio de **APIs REST**
+- Consumo, envio e tratamento de dados conforme os contratos das APIs
+- Utilização do **Swagger** para documentação e validação de endpoints
+- Participação em **code reviews, sprints e alinhamentos** com a equipe
+- Versionamento utilizando **Git/Gitflow**
+- Atuação em ambientes ágeis com **Scrum e Kanban**
 
 ---
 
-### 💼 Bolsista Desenvolvedora Front-End  
+### 💼 Bolsista Desenvolvedora Front-End
 **GREAT – Grupo de Redes de Computadores, Engenharia de Software e Sistemas** — Fortaleza/CE  
 *Jul 2021 – Dez 2022*
 
-- Desenvolvimento de interfaces web com **React e Bootstrap**
-- Criação de aplicações corporativas utilizadas em sistemas governamentais  
-- Implementação de interfaces responsivas alinhadas a requisitos técnicos  
+- Desenvolvimento Front-End de plataforma corporativa utilizada no processo de **emissão de RG no Ceará**
+- Implementação de interfaces web responsivas utilizando **React e Bootstrap**
+- Desenvolvimento de interfaces a partir de **mockups no Adobe XD**
+- Validação dos principais fluxos e funcionalidades da aplicação
+- Realização de **testes exploratórios** para identificação de inconsistências e possíveis problemas
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🛠️ Tecnologias
+
+### Front-End
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### UI & Styling
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Experiência com:**
+
+- Interfaces responsivas
+- Componentização
+- Componentes reutilizáveis
+- Prototipação
+- Implementação de interfaces a partir de designs
+
+### APIs & Integrações
+
+![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+- APIs REST
+- GraphQL
+- HTTP
+- JSON
+- Swagger
+
+### Versionamento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- Git / Gitflow
+- Branches
+- Commits
+- Pull Requests
+- Code Review
+
+### Conhecimentos Complementares
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Projeto em destaque
+
+### 💳 Bank API — Java + Spring Boot
+
+Projeto desenvolvido para praticar desenvolvimento de **APIs REST com Java e Spring Boot**, simulando operações bancárias.
+
+**Funcionalidades:**
+
+- Criação de usuários
+- Transferência de saldo entre contas
+- Controle de saldo
+- Histórico de transações
+
+**Tecnologias:**
+
+- Java 21
+- Spring Boot
+- JPA / Hibernate
+- H2 Database
+- Arquitetura em camadas
+
+> Projeto desenvolvido como estudo de desenvolvimento Back-End e complemento à minha experiência principal em Front-End.
+
+---
+
+## 🎓 Formação
 
 **Engenharia de Computação**  
 Universidade Federal do Ceará (UFC)  
@@ -61,54 +158,16 @@ Instituto Federal do Piauí (IFPI)
 
 ---
 
-## 🚀 Projeto em destaque
+## 🎯 Atualmente
 
-### 💳 Bank API (Java + Spring Boot)
+Busco oportunidades como **Desenvolvedora Front-End**, especialmente em equipes que trabalhem com **React, Next.js, TypeScript e desenvolvimento de aplicações web**.
 
-API REST desenvolvida com Java e Spring Boot simulando operações bancárias, incluindo criação de usuários, transferência de saldo entre contas, controle de saldo e histórico de transações.
-
-**Funcionalidades:**
-- Criação de usuários  
-- Transferência de saldo entre contas  
-- Controle de saldo  
-- Histórico de transações  
-
-**Tecnologias:**
-- Java 21  
-- Spring Boot  
-- JPA / Hibernate  
-- H2 Database  
-- Arquitetura em camadas (Controller, Service, Repository)
+Tenho interesse em continuar evoluindo tecnicamente, aprender novas tecnologias e contribuir com projetos reais.
 
 ---
 
-## 🧠 Tecnologias
+## 📫 Onde me encontrar
 
-**Front-End:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mellyssa-alves-de-sousa/)
 
-**Back-End:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-**Banco de Dados:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-007ACC?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Ferramentas:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
----
-
-## 🎯 Objetivo
-
-Evoluir como desenvolvedora backend, contribuindo na construção de sistemas escaláveis, bem estruturados e de alta qualidade.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mellyssalves)
